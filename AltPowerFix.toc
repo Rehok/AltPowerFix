@@ -1,0 +1,8 @@
+## Interface: 70200
+## Author: Fou
+## Version: 2.0.0
+## Title: AltPowerFix
+## Notes: Removes the Mouseover text from Alt Power Bar.
+
+AltPowerFix.lua
+
