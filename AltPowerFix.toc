@@ -1,8 +1,8 @@
-## Interface: 70200
-## Author: Fou
+## Interface: 70300
+## Author: Rehok
 ## Version: 2.0.0
-## Title: AltPowerFix
+## Title: rAPF
 ## Notes: Removes the Mouseover text from Alt Power Bar.
 
-AltPowerFix.lua
+rAPF.lua
 
